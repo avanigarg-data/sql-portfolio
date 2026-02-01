@@ -1,5 +1,5 @@
 ## Key Insights
-- Total revenue reached $X
-- Highest revenue month was March
-- Product A generated the most revenue
-- West region outperformed other regions
+- Total revenue generated was $4,360
+- Electronics is the highest-revenue category
+- North region generated the most sales
+- Revenue shows consistent month-over-month growth
