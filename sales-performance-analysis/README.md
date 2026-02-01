@@ -1,13 +1,19 @@
-# SQL Portfolio
+# Sales Performance Analysis
 
-Hi, I’m Avani Garg.  
-This repository contains SQL data analysis projects focused on solving real business problems.
+## Objective
+Analyze sales data to identify revenue trends, top-performing products, and regional performance.
 
-## Projects
-- **Sales Performance Analysis**  
-  Analyzed sales data to identify revenue trends, top products, and regional performance.
+## Dataset
+Synthetic sales dataset created for analysis purposes.
 
-## Skills
-- SQL (Joins, CTEs, Window Functions)
-- Data Analysis
-- Business Insights
+## Skills Used
+- SQL
+- Aggregations
+- Date functions
+- CTEs
+- Window functions
+
+## Output
+- Monthly revenue trend
+- Top products and categories
+- Region-wise sales performance
